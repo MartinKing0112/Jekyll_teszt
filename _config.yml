@@ -2,6 +2,6 @@
 title: Saját weboldalam
 description: Saját GitHub Pages weboldal
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 markdown: kramdown
