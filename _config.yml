@@ -1,0 +1,15 @@
+
+# Weboldal alapbeállításai
+title: Saját weboldalam
+description: Üdvözöllek a weboldalamon!
+url: ""
+baseurl: ""
+
+# Jekyll téma
+theme: minima
+
+# Nyelv
+lang: hu
+
+# Markdown feldolgozó
+markdown: kramdown
