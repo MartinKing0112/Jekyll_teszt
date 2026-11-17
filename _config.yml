@@ -1,9 +1,7 @@
 
 title: Saját weboldalam
-description: Üdvözöllek a weboldalamon!
+description: Saját GitHub Pages weboldal
 
 theme: jekyll-theme-cayman
 
 markdown: kramdown
-plugins:
-  - jekyll-remote-theme
