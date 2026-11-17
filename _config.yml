@@ -1,15 +1,9 @@
 
-# Weboldal alapbeállításai
 title: Saját weboldalam
 description: Üdvözöllek a weboldalamon!
-url: ""
-baseurl: ""
 
-# Jekyll téma
-theme: minima
+theme: jekyll-theme-cayman
 
-# Nyelv
-lang: hu
-
-# Markdown feldolgozó
 markdown: kramdown
+plugins:
+  - jekyll-remote-theme
